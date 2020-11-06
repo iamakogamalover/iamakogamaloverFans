@@ -1,0 +1,21 @@
+{
+    "name": "THE TURTLE GAME",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
